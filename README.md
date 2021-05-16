@@ -19,4 +19,4 @@ Egg timer is a tool to measure the time to a perfect boiled egg to suit your tas
 ![eggTimerScreens](https://user-images.githubusercontent.com/74434212/118412581-30ba2f80-b671-11eb-9569-0524b678dd1e.png)
 
 
-This is part of a course project The App Brewery's Complete App Development Bootcamp, check out the full course at www.appbrewery.co
+This project is part of the The App Brewery's Complete App Development Bootcamp, check out the full course at www.appbrewery.co
